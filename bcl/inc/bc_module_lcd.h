@@ -1,6 +1,7 @@
+// RS
+
 #ifndef _BC_MODULE_LCD
 #define _BC_MODULE_LCD
-
 
 #include <bc_font_common.h>
 #include <bc_image.h>
